@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @srnewman
+- 👋 Hi, I’m @srnewman! My background is in biochemistry and I work as a data scientist for Schrodinger Inc.
 - 👀 I’m interested in python for data science, cheminformatics, and data curation via python
 - 🌱 I’m currently learning beginners python for data science and RDKit basics
 - 💞️ I’m looking to collaborate on ...
